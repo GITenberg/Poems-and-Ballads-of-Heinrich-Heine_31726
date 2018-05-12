@@ -1,0 +1,39 @@
+_repo: Poems-and-Ballads-of-Heinrich-Heine_31726
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Lazarus, Emma
+    birthdate: 1849
+    deathdate: 1887
+    gutenberg_agent_id: '1155'
+    url: http://www.gutenberg.org/2009/agents/1155
+    wikipedia: http://en.wikipedia.org/wiki/Emma_Lazarus
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+description: ''
+gutenberg_issued: '2010-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31726'
+  lccn: '15010195'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- Translations into English'
+- !lcc 'PT'
+tableOfContents: Heinrich Heine (biographical sketch) -- Early poems -- Homeward bound
+  -- Songs to Seraphine -- The North Sea.
+title: Poems and Ballads of Heinrich Heine
+url: http://www.gutenberg.org/ebooks/31726
